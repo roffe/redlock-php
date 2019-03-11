@@ -1,5 +1,5 @@
 {
-    "name": "ronnylt/redlock-php",
+    "name": "roffe/redlock-php",
     "description": "Redis distributed locks in PHP",
     "authors": [
         {
